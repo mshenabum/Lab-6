@@ -1,5 +1,9 @@
 import java.util.Scanner;
 
+
+//New Changes for Lab 6
+//Test 1, 2, 3
+
 public class SciCalculator {
     public static void main(String[] args) {
 
